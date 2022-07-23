@@ -15,8 +15,7 @@ else Console.WriteLine("Число не является палиндромом"
 
 
 
-
-
+//Наработки на другой вариант, но не вышло(((
 /*string number = (Console.ReadLine ());
 int lenght = (int)(Math.Log10(Math.Abs(Convert.ToInt32(number)))+1);
 //Console.WriteLine(lenght);
